@@ -1,0 +1,20 @@
+{
+  "name": "into-vuepress",
+  "version": "1.0.0",
+  "description": "vuepress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "vuepress",
+    "docs",
+    "vue"
+  ],
+  "author": "Satheesh Valluru",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
